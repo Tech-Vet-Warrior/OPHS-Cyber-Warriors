@@ -1,0 +1,15 @@
+#OPHS Cyber Warriors
+
+#The first at-home task is to identify and fix the issues contained in the OPHS Lab1.pkt file.
+
+#As shown during practice, this is the same network configuration that we discussed.  However, the file that you will download has some flaws in it, which you will need to correct in order to complete the tasks assigned in the related document.  There are four issues to be resolved.
+
+#In order to use the file, you will need to have the Cisco Packet Tracer tool installed.
+#    1. Use Packet Tracer version 8.2.2
+#    2. You must have a login to Cisco Network Academy (https://www.netacad.com/) in order to download the application and for the application to launch each time
+#        a. You will need to register for a free account with Cisco
+#        b. You will need to go to the RESOURCES area and download the installation file
+#        c. I would highly encourage you to take the FREE course in the catalog, called "Getting Started with Cisco Packet Tracer"
+#        d. As you go along, there are other FREE courses int eh catalog that will enhance your learning and skills
+#
+#Happy hunting!
